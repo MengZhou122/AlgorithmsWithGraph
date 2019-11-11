@@ -10,3 +10,5 @@ the second is for destination node, the third (if appears) is for the weight.
 
 With different graphs built base on the txt file(1-1000), realize all kind of algprithms.
 Like bfs, dfs, heapify, hashmap, DP, Dijkstra, etc.
+
+In graphtest class, we built several typical test cases for different algorithms and the related assertion were set.
