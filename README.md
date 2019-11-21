@@ -8,7 +8,7 @@ There are four different graphs, (directed/undirectied X weighted/unweighted).
 In the txt file, for each line, the first string stands for the name of source node, 
 the second is for destination node, the third (if appears) is for the weight.
 
-With different graphs built base on the txt file(1-1000), realize all kind of algprithms.
-Like bfs, dfs, heapify, hashmap, DP, Dijkstra, etc.
+With different graphs built base on the txt file(1-1000), realize all kind of algprithms and data structures.
+Like bfs, dfs, heap, hashmap, DP, Dijkstra, Union Find, etc.
 
 In graphtest class, we built several typical test cases for different algorithms and the related assertion were set.
