@@ -1,0 +1,9 @@
+digraph g {
+edge [color = red]
+  A -> C [label = 12.8]
+  A -> D [label = 60.0]
+  C -> B [label = 20.0]
+  C -> D [label = 32.9]
+  B -> A [label = 10.0]
+  E -> A [label = 7.0]
+}

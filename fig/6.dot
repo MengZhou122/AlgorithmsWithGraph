@@ -1,0 +1,7 @@
+digraph g {
+edge [dir = none, color = red]
+  1 -> 2
+  1 -> 5
+  5 -> 9
+  5 -> 10
+}

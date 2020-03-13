@@ -1,0 +1,16 @@
+digraph g {
+edge [dir = none, color = red]
+  C -> D [label = 9.0]
+  C -> E [label = 3.0]
+  C -> B [label = 1.0]
+  C -> D [label = 9.0]
+  C -> A [label = 3.0]
+  D -> E [label = 2.0]
+  D -> G [label = 12.0]
+  D -> F [label = 1.0]
+  E -> B [label = 5.0]
+  E -> F [label = 2.0]
+  B -> G [label = 2.0]
+  B -> A [label = 1.0]
+  F -> A [label = 10.0]
+}

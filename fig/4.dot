@@ -1,0 +1,6 @@
+digraph g {
+edge [color = red]
+  A -> B
+  A -> C
+  C -> B
+}
