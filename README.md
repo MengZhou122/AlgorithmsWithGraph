@@ -1,4 +1,5 @@
-# AlgorithmsWithGraph
+# Weekly Coding Practice for INFO6205(Program Structures and Algorithms)
+
 Practice different algorithms deployed with graphs
 
 With graph & graph builder class we can read the text in the text files and built the corresponding graph.
